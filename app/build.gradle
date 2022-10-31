@@ -22,6 +22,7 @@ plugins {
 }
 
 android {
+
     compileSdkVersion 33
     defaultConfig {
         applicationId "com.example.android.eggtimernotifications"
